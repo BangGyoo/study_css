@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+	<head>
+<style>
+body{
+	background-image:url("https://stickershop.line-scdn.net/stickershop/v1/product/8042898/LINEStorePC/main.png;compress=true");
+}
+.blend{
+	font-size:2rem;
+	font-weight: bold;
+	color: red;
+	mix-blend-mode:screen;
+}
+</style>
+	</head>
+	<body>
+		<div class="blend">
+			<h1>Blend is awesome Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus ligula vitae urna tristique, vitae condimentum orci bibendum. Proin imperdiet mollis sapien a ultrices. Phasellus convallis, orci sodales convallis sagittis, urna nunc ornare justo, in vulputate quam sem a lectus. Suspendisse quis pulvinar arcu, ut interdum ligula. Vivamus tristique ante leo, sed aliquam dui lobortis vel. Cras dignissim diam nibh, nec volutpat sem convallis non. Ut ac ornare nisi. Curabitur scelerisque vulputate enim, sed ullamcorper eros dignissim ut. Cras commodo eleifend magna, quis ultricies tellus fringilla at.
+			
+			Maecenas nec sapien dignissim, porta mi non, ornare ex. Suspendisse potenti. Mauris molestie orci condimentum orci dignissim tempus. Nulla id ex turpis. Duis ut erat non mauris condimentum dignissim sed id leo. Maecenas molestie sit amet tortor et auctor. Integer dictum accumsan dui, nec pharetra lorem condimentum vel.</h1>
+		</div>
+	</body>
+</html>
