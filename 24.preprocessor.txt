@@ -1,0 +1,2 @@
+preprocessor
+stylus-lang.com 같은 기존의 css syntax에서 벗어나서 간단한 코드로 작성하는 방식
